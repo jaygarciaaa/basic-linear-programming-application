@@ -1,7 +1,0 @@
-## main.ipynb (Outline)
-# 1️⃣ Import modules
-# 2️⃣ Get user input & parse it
-# 3️⃣ Solve the LP problem
-# 4️⃣ Display results
-# 5️⃣ Visualize if applicable
-# 6️⃣ Export results
