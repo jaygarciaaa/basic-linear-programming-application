@@ -1,5 +1,9 @@
+# Required dependencies for the Linear Programming Solver
+
 pulp==2.7.0         # Linear programming solver
 numpy==1.24.3       # Numerical operations
 pandas==1.5.3       # Data handling & exporting
 matplotlib==3.7.1   # Visualization (2D feasible region plots)
 reportlab==3.6.12   # PDF generation (optional)
+
+# pip install -r requirements.txt
