@@ -1,7 +1,6 @@
 # basic-linear-programming-application
 
-**Access Webpage here:**
-  - https://jaygarciaaa.github.io/basic-linear-programming-application/
+## PROJECT NOT WORKING AS INTENDED. PLEASE DO NOT USE PROJECT
   
 Problem Set 3 from Optimization Techniques Course
 
